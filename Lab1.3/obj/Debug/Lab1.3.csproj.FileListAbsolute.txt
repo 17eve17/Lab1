@@ -1,0 +1,6 @@
+C:\Users\vival\source\repos\lab 1bb\Lab1.3\bin\Debug\Lab1.3.exe.config
+C:\Users\vival\source\repos\lab 1bb\Lab1.3\bin\Debug\Lab1.3.exe
+C:\Users\vival\source\repos\lab 1bb\Lab1.3\bin\Debug\Lab1.3.pdb
+C:\Users\vival\source\repos\lab 1bb\Lab1.3\obj\Debug\Lab1.3.csproj.CoreCompileInputs.cache
+C:\Users\vival\source\repos\lab 1bb\Lab1.3\obj\Debug\Lab1.3.exe
+C:\Users\vival\source\repos\lab 1bb\Lab1.3\obj\Debug\Lab1.3.pdb

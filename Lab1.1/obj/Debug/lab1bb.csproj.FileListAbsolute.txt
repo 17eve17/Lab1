@@ -1,0 +1,7 @@
+C:\Users\vival\source\repos\lab 1bb\lab1bb\bin\Debug\lab1bb.exe.config
+C:\Users\vival\source\repos\lab 1bb\lab1bb\bin\Debug\lab1bb.exe
+C:\Users\vival\source\repos\lab 1bb\lab1bb\bin\Debug\lab1bb.pdb
+C:\Users\vival\source\repos\lab 1bb\lab1bb\obj\Debug\lab1bb.csproj.AssemblyReference.cache
+C:\Users\vival\source\repos\lab 1bb\lab1bb\obj\Debug\lab1bb.csproj.CoreCompileInputs.cache
+C:\Users\vival\source\repos\lab 1bb\lab1bb\obj\Debug\lab1bb.exe
+C:\Users\vival\source\repos\lab 1bb\lab1bb\obj\Debug\lab1bb.pdb
